@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Poetsen+One&display=swap");
+h1 {
+  color: red;
+  text-align: left;
+  /* text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: aqua; */
+  text-decoration: solid line-through pink;
+}
+a {
+  text-decoration: none;
+}
+h2 {
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+  text-transform: capitalize;
+}
+p {
+  font-size: 20px;
+  line-height: 100px;
+  word-spacing: 30px;
+  letter-spacing: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.newPara {
+  /* font-style: italic; */
+  font-weight: 800;
+  font-family: "Bungee Spice";
+}

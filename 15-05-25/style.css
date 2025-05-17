@@ -1,0 +1,31 @@
+h1 {
+  /* named color */
+  color: green;
+}
+h1 {
+  /*RGB(0-255 0-255 0-255) */
+  color: rgb(0, 200, 255);
+}
+h1 {
+  /* RGBA() */
+  color: rgba(255, 0, 0, 0.6);
+}
+h1 {
+  /* color: #RRGGBB; */
+  color: #cc7707;
+}
+
+p {
+  color: red;
+}
+.para {
+  color: blue;
+}
+#paraId {
+  color: teal !important;
+  font-weight: 900;
+}
+input[type="text"] {
+  color: blue;
+  background-color: yellow;
+}

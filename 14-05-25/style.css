@@ -1,0 +1,22 @@
+#firstpara {
+  font-size: 28px;
+}
+.parent {
+  font-size: 20px;
+}
+.parent > p {
+  font-size: 4em;
+}
+#secondDiv {
+  height: 300px;
+  width: 400px;
+  background-color: aqua;
+}
+.childBox {
+  height: 100%;
+  width: 50%;
+  background-color: red;
+}
+#secondPara {
+  font-size: 10rem;
+}
